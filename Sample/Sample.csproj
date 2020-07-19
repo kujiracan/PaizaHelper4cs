@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Com.Example.Paiza.Sample</RootNamespace>
+    <StartupObject>Com.Example.Paiza.Sample.EntryPoint</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaizaHelper\PaizaHelper.csproj" />
+  </ItemGroup>
+
+</Project>

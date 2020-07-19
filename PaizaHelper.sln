@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{31A066B8-AAA2-4BAB-9E23-1D969A7B4B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaizaHelper", "PaizaHelper\PaizaHelper.csproj", "{FD825A69-F49D-4015-9AF6-1F0AE2C801E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD825A69-F49D-4015-9AF6-1F0AE2C801E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD825A69-F49D-4015-9AF6-1F0AE2C801E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD825A69-F49D-4015-9AF6-1F0AE2C801E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD825A69-F49D-4015-9AF6-1F0AE2C801E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A066B8-AAA2-4BAB-9E23-1D969A7B4B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A066B8-AAA2-4BAB-9E23-1D969A7B4B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A066B8-AAA2-4BAB-9E23-1D969A7B4B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A066B8-AAA2-4BAB-9E23-1D969A7B4B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B109CA-17DE-4C88-A302-0533F95F3AFB}
+	EndGlobalSection
+EndGlobal
